@@ -1,0 +1,530 @@
+# Kodi Media Center language file
+# Addon Name: Pellucid
+# Addon id: skin.pellucid
+# Addon Provider: chrisbevan
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Skins\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2022-03-01 12:51+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Dutch <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-pellucid/nl_nl/>\n"
+"Language: nl_nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.11\n"
+
+msgctxt "Addon Summary"
+msgid "A skin for Kodi from theDeadmanInYossariansTent"
+msgstr "Een skin voor Kodi van theDeadmanInYossariansTent"
+
+msgctxt "Addon Description"
+msgid "Pellucid is a lightweight, clean and simple Kodi experience designed for maximum usability and minimum fuss."
+msgstr "Pellucid vormt een lichte en simpele Kodi-ervaring, ontworpen voor maximaal gebruik en minimaal gedoe."
+
+msgctxt "#31008"
+msgid "Sort by"
+msgstr "Sorteren op"
+
+msgctxt "#31012"
+msgid "My Library"
+msgstr "Mijn bibliotheek"
+
+msgctxt "#31014"
+msgid "title(s)"
+msgstr "titel(s)"
+
+msgctxt "#31015"
+msgid "On"
+msgstr "Op"
+
+msgctxt "#31019"
+msgid "Open playlist"
+msgstr "Afspeellijst openen"
+
+msgctxt "#31020"
+msgid "Save playlist"
+msgstr "Afspeellijst opslaan"
+
+msgctxt "#31021"
+msgid "Clear playlist"
+msgstr "Leegmaken afspeellijst"
+
+msgctxt "#31022"
+msgid "Select Items"
+msgstr "Kies items"
+
+msgctxt "#31023"
+msgid "Notification"
+msgstr "Melding"
+
+msgctxt "#31031"
+msgid "Play Random"
+msgstr "Willekeurig afspelen"
+
+msgctxt "#31034"
+msgid "Enable Debug Grid"
+msgstr "Debug grid"
+
+msgctxt "#31035"
+msgid "Enable Debug Information"
+msgstr "Inschakelen debug-informatie"
+
+msgctxt "#31043"
+msgid "Reload Skin"
+msgstr "Herlaad Skin"
+
+msgctxt "#31044"
+msgid "Debugging"
+msgstr "Debuggen"
+
+msgctxt "#31046"
+msgid "Field"
+msgstr "Veld"
+
+msgctxt "#31048"
+msgid "Create Folder"
+msgstr "Aanmaken folder"
+
+msgctxt "#31051"
+msgid "Disc Menu"
+msgstr "Diskmenu"
+
+msgctxt "#31054"
+msgid "by"
+msgstr "door"
+
+msgctxt "#31056"
+msgid "Photo Library"
+msgstr "Fotobibliotheek"
+
+msgctxt "#31057"
+msgid "Create Music Playlist"
+msgstr "Aanmaken muziekafspeellijst"
+
+msgctxt "#31060"
+msgid "PVR"
+msgstr "PVR"
+
+msgctxt "#31061"
+msgid "Adjust look and feel of Kodi"
+msgstr "Aanpassen uiterlijk van Kodi"
+
+msgctxt "#31062"
+msgid "Memory"
+msgstr "Geheugen"
+
+msgctxt "#31063"
+msgid "Manage content playback"
+msgstr "Beheer afspeelcontent"
+
+msgctxt "#31064"
+msgid "CPU"
+msgstr "CPU"
+
+msgctxt "#31067"
+msgid "Extend Kodi's functionality"
+msgstr "Vergroot Kodi's bruikbaarheid"
+
+msgctxt "#31070"
+msgid "Screen"
+msgstr "Scherm"
+
+msgctxt "#31071"
+msgid "Communications and sharing"
+msgstr "Communicatie en delen"
+
+msgctxt "#31073"
+msgid "Channel Guide"
+msgstr "Kanaalgids"
+
+msgctxt "#31076"
+msgid "Change Title"
+msgstr "Verander titel"
+
+msgctxt "#31078"
+msgid "Now and Next"
+msgstr "Nu en later"
+
+msgctxt "#31079"
+msgid "Import your content into Kodi"
+msgstr "Importeer je content in Kodi"
+
+msgctxt "#31081"
+msgid "Digital Television Setup"
+msgstr "Digitale televisiesetup"
+
+msgctxt "#31082"
+msgid "By"
+msgstr "Door"
+
+msgctxt "#31087"
+msgid "Timers"
+msgstr "Timers"
+
+msgctxt "#31088"
+msgid "Video Addons"
+msgstr "Video add-ons"
+
+msgctxt "#31090"
+msgid "Music Addons"
+msgstr "Muziek Add-ons"
+
+msgctxt "#31093"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "#31095"
+msgid "Transfer and copy files"
+msgstr "Verplaats en kopieer bestanden"
+
+msgctxt "#31096"
+msgid "No items found"
+msgstr "Geen items gevonden"
+
+msgctxt "#31099"
+msgid "Add Group"
+msgstr "Groep Toevoegen"
+
+msgctxt "#31100"
+msgid "Rename Group"
+msgstr "Groep Hernoemen"
+
+msgctxt "#31101"
+msgid "Delete Group"
+msgstr "Groep Verwijderen"
+
+msgctxt "#31102"
+msgid "Low CPU power mode"
+msgstr "Lage CPU powermode"
+
+msgctxt "#31103"
+msgid "Control how Kodi is used"
+msgstr "Bepaal hoe Kodi wordt gebruikt"
+
+msgctxt "#31104"
+msgid "Disable this addon"
+msgstr "Deze add-on uitschakelen"
+
+msgctxt "#31105"
+msgid "Manage your Kodi system"
+msgstr "Beheer je Kodi-systeem"
+
+msgctxt "#31107"
+msgid "Current profile"
+msgstr "Huidig profiel"
+
+msgctxt "#31108"
+msgid "About this Kodi Installation"
+msgstr "Over deze Kodi-installatie"
+
+msgctxt "#31109"
+msgid "Order: Ascending"
+msgstr "Volgorde: Oplopend"
+
+msgctxt "#31110"
+msgid "Order: Descending"
+msgstr "Volgorde: Aflopend"
+
+msgctxt "#31111"
+msgid "Manage your program addons"
+msgstr "Beheer je programma-add-ons"
+
+msgctxt "#31112"
+msgid "TV Guide"
+msgstr "TV Gids"
+
+msgctxt "#31113"
+msgid "Kodi Addons"
+msgstr "Kodi add-ons"
+
+msgctxt "#31114"
+msgid "Pixel format"
+msgstr "Pixelformaat"
+
+msgctxt "#31116"
+msgid "Set home background directory"
+msgstr "Instellen home-achtergrondfolder"
+
+msgctxt "#31117"
+msgid "Launch addon"
+msgstr "Start add-on"
+
+msgctxt "#31118"
+msgid "PVR not active"
+msgstr "PVR niet actief"
+
+msgctxt "#31121"
+msgid "My Kodi"
+msgstr "Mijn Kodi"
+
+msgctxt "#31122"
+msgid "Reset home backgrounds to default"
+msgstr "Terugzetten home-achtergrond naar standaard"
+
+msgctxt "#31123"
+msgid "Current Queue"
+msgstr "Huidige rij"
+
+msgctxt "#31127"
+msgid "Continue Watching"
+msgstr "Kijk verder"
+
+msgctxt "#31134"
+msgid "Manual search"
+msgstr "Handmatig zoeken"
+
+msgctxt "#31136"
+msgid "Now Playing"
+msgstr "Huidige Onderdeel"
+
+msgctxt "#31138"
+msgid "Stop video playing on return to menu"
+msgstr "Stop afspelen video bij terugkeer naar menu"
+
+msgctxt "#31142"
+msgid "Prioritise exit over shutdown in power menu"
+msgstr "Prefereer exit i.p.v. shutdown in powermenu"
+
+msgctxt "#31143"
+msgid "Remaining"
+msgstr "Overblijvende"
+
+msgctxt "#31144"
+msgid "FPS"
+msgstr "FPS"
+
+msgctxt "#31145"
+msgid "Item(s)"
+msgstr "Item(s)"
+
+msgctxt "#31149"
+msgid "Released"
+msgstr "Uitgebracht"
+
+msgctxt "#31152"
+msgid "Press OK to cancel"
+msgstr "Druk op OK om af te breken"
+
+msgctxt "#31153"
+msgid "Playlist saved"
+msgstr "Afspeellijst opgeslagen"
+
+msgctxt "#31160"
+msgid "Ends"
+msgstr "Eindigt"
+
+msgctxt "#31165"
+msgid "TV Recordings"
+msgstr "TV opnamen"
+
+msgctxt "#31169"
+msgid "Rate"
+msgstr "Waardering"
+
+msgctxt "#31170"
+msgid "Menus"
+msgstr "Menu's"
+
+msgctxt "#31171"
+msgid "Edit home menu"
+msgstr "Wijzig home-menu"
+
+msgctxt "#31172"
+msgid "Edit video section menu"
+msgstr "Wijzig videosectiemenu"
+
+msgctxt "#31173"
+msgid "Edit music section menu"
+msgstr "Wijzig muzieksectiemenu"
+
+msgctxt "#31174"
+msgid "Edit picture section menu"
+msgstr "Wijzig afbeeldingsectiemenu"
+
+msgctxt "#31176"
+msgid "New Movies"
+msgstr "Nieuwe films"
+
+msgctxt "#31178"
+msgid "New TV Shows"
+msgstr "Nieuwe TV-shows"
+
+msgctxt "#31179"
+msgid "Options"
+msgstr "Opties"
+
+msgctxt "#31180"
+msgid "New Albums"
+msgstr "Nieuwe albums"
+
+msgctxt "#31181"
+msgid "Random Albums"
+msgstr "Willekeurige albums"
+
+msgctxt "#31187"
+msgid "Top Albums"
+msgstr "Beste albums"
+
+msgctxt "#31188"
+msgid "season(s)"
+msgstr "seizoen(en)"
+
+msgctxt "#31189"
+msgid "episode(s)"
+msgstr "aflevering(en)"
+
+msgctxt "#31190"
+msgid "All Episodes"
+msgstr "Alle afleveringen"
+
+msgctxt "#31195"
+msgid "Show only unwatched items:"
+msgstr "Toon alleen niet-bekeken items:"
+
+msgctxt "#31199"
+msgid "Artists in"
+msgstr "Artiesten in"
+
+msgctxt "#31203"
+msgid "Smart Playlist"
+msgstr "Slimme afspeellijst"
+
+msgctxt "#31205"
+msgid "No further details available."
+msgstr "Geen verdere details bekend."
+
+msgctxt "#31206"
+msgid "Kodi System Information"
+msgstr "Kodi systeeminformatie"
+
+msgctxt "#31209"
+msgid "<Source name>"
+msgstr "<Source name>"
+
+msgctxt "#31211"
+msgid "<Smart playlist name>"
+msgstr "<Smart playlist name>"
+
+msgctxt "#31212"
+msgid "From"
+msgstr "Van"
+
+msgctxt "#31213"
+msgid "Showing unwatched titles only"
+msgstr "Tonen van niet-bekeken titels"
+
+msgctxt "#31215"
+msgid "TV Channels"
+msgstr "TV-kanalen"
+
+msgctxt "#31216"
+msgid "TV Shows"
+msgstr "TV series"
+
+msgctxt "#31218"
+msgid "Enable this addon"
+msgstr "Deze add-on inschakelen"
+
+msgctxt "#31220"
+msgid "Disable extended fanart"
+msgstr "Uitschakelen van uitgebreide fanart"
+
+msgctxt "#31221"
+msgid "Play Disc"
+msgstr "Schijf afspelen"
+
+msgctxt "#31222"
+msgid "Change Channel Group"
+msgstr "Verander kanaalgroep"
+
+msgctxt "#31223"
+msgid "All Albums"
+msgstr "Alle albums"
+
+msgctxt "#31224"
+msgid "All Movies"
+msgstr "Alle films"
+
+msgctxt "#31225"
+msgid "All TV Shows"
+msgstr "Alle TV-series"
+
+msgctxt "#31226"
+msgid "LibreElec Settings"
+msgstr "LibreELEC instellingen"
+
+msgctxt "#31228"
+msgid "Edit Menu"
+msgstr "Wijzig menu"
+
+msgctxt "#31229"
+msgid "Play Music"
+msgstr "Afspelen muziek"
+
+msgctxt "#31230"
+msgid "Game Settings"
+msgstr "Spelinstellingen"
+
+msgctxt "#31231"
+msgid "Game related options"
+msgstr "Spel-gerelateerde opties"
+
+msgctxt "#31232"
+msgid "Games"
+msgstr "Spellen"
+
+msgctxt "#31233"
+msgid "Edit game section menu"
+msgstr "Wijzig spelsectiemenu"
+
+msgctxt "#31234"
+msgid "Game Addons"
+msgstr "Spel add-ons"
+
+msgctxt "#31236"
+msgid "Radio / TV"
+msgstr "Radio / TV"
+
+msgctxt "#31237"
+msgid "Results for"
+msgstr "Resultaten van"
+
+msgctxt "#31238"
+msgid "Disable recently added section for Movies"
+msgstr "Uitschakelen sectie onlangs toegevoegd voor films"
+
+msgctxt "#31239"
+msgid "Disable recently added section for TV Shows"
+msgstr "Uitschakelen sectie onlangs toegevoegd voor TV-shows"
+
+msgctxt "#31240"
+msgid "Disable recently added section for Albums"
+msgstr "Uitschakelen sectie onlangs toegevoegd voor albums"
+
+msgctxt "#31245"
+msgid "Finishes"
+msgstr "Eindigt"
+
+msgctxt "#31248"
+msgid "Queue"
+msgstr "Wachtrij"
+
+msgctxt "#31249"
+msgid "Live TV"
+msgstr "Live Televisie"
+
+msgctxt "#31250"
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "#31251"
+msgid "Eject Disc"
+msgstr "Disk uitwerpen"
+
+msgctxt "#31252"
+msgid "Album"
+msgstr "Album"

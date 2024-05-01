@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repo.leos23" name="leos23" version="0.1" provider-name="leos23">
+    <extension point="xbmc.addon.repository" name="leos23">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/leos23/leos23/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/leos23/leos23/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/leos23/leos23/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>leos23</summary>
+        <description>private repo</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
