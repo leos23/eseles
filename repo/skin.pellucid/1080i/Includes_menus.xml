@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <includes>
 	<include name="menus-mainmenu">
-		<!-- <item id="1">
+		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<label>$LOCALIZE[31136]</label>
 			<icon>DefaultAddon.png</icon>
@@ -17,16 +17,16 @@
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
-	-->
+	
 		
-		<item id="2">
+		<!--<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<label>Stream Cinema</label>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.stream-cinema",return)</onclick>
-			</item>
-		<!--<item id="3">
+			</item>-->
+		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<label>$LOCALIZE[31251]</label>
 			<icon>DefaultAddon.png</icon>

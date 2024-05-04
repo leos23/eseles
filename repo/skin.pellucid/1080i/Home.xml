@@ -7,6 +7,40 @@
 	<onunload>CancelAlarm(hidemenu,true)</onunload>
 	<controls>
 		<include>globalBackground</include>
+		<control type="image">
+						<description>Weather conditions</description>
+					  <left>1200</left>
+					  <top>600</top>
+					  <width>48</width>
+					  <height>48</height>
+					  <texture>$INFO[Weather.Conditions]</texture>
+					  <colordiffuse>98FFFFFFF</colordiffuse>
+					  <visible effect="fade" time="250">Weather.IsFetched</visible>
+					</control>
+						  
+					<control type="label">
+					  <description>Weather Temperature</description>
+					  <left>1000</left>
+					  <top>600</top>
+					  <width>200</width>
+					  <height>20</height>
+					  <label>$INFO[Weather.Temperature]</label>
+					  <font>font13</font>
+					  <align>left</align>
+					  <visible effect="fade" time="250">Weather.IsFetched</visible>
+					</control>
+						   
+					<control type="label">
+					  <description>Weather Location</description>
+					  <left>1000</left>
+					  <top>620</top>
+					  <width>200</width>
+					  <height>20</height>
+					  <label>$INFO[Weather.Location]</label>
+					  <font>font13</font>
+					  <align>left</align>
+					  <visible effect="fade" time="250">Weather.IsFetched</visible>
+					</control>
 		<control type="group">
 			<animation type="conditional" condition="control.hasfocus(8001) | control.hasfocus(8002)">
 				<effect type="slide" start="0,0" end="0,-80" tween="sine" time="400"/>
@@ -204,9 +238,20 @@
 						<label>[CAPITALIZE]$INFO[ListItem.label][/CAPITALIZE]</label>
 					</control>
 				</focusedlayout>
+					</control>
+						<item id="1">
+							<property name="id">$NUMBER[1]</property>
+							<label>Stream Cinema</label>
+							<icon>DefaultShortcut.png</icon>
+							<thumb />
+							<onclick>ActivateWindow(Videos,"plugin://plugin.video.stream-cinema",return)</onclick>
+						</item>
+					</control>	
+				<!--
 				<content>
 					<include>menus-mainmenu</include>
 				</content>
+				-->
 			</control>
 			<!--power / settings-->
 			<control type="group">
@@ -264,7 +309,7 @@
 						</item>					
 						<item>
 							<label></label>
-							<onclick>ActivateWindow(shutdownmenu)</onclick>
+							<onclick>XBMC.Quit()</onclick>
 						</item>
 					</content>
 				</control>
@@ -375,6 +420,7 @@
 						<textcolor>textActive</textcolor>
 						<wrapmultiline>false</wrapmultiline>
 					</control>
+					
 				</control>
 			</control>
 		</control>	
