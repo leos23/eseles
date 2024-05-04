@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <includes>
 	<include name="menus-mainmenu">
-		<item id="1">
+		<!-- <item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<label>$LOCALIZE[31136]</label>
 			<icon>DefaultAddon.png</icon>
@@ -17,23 +17,16 @@
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
+	-->
+		
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
-			<label>$LOCALIZE[31221]</label>
-			<icon>DefaultAddon.png</icon>
+			<label>Stream Cinema</label>
+			<icon>DefaultShortcut.png</icon>
 			<thumb />
-			<property name="labelID">31221</property>
-			<property name="defaultID">31221</property>
-			<visible>System.HasMediaDVD</visible>
-			<onclick>XBMC.PlayDVD()</onclick>
-			<property name="path">XBMC.PlayDVD()</property>
-			<property name="list">XBMC.PlayDVD()</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">num-31221</property>
-			<property name="group">mainmenu</property>
-			<property name="hasSubmenu">False</property>
-		</item>
-		<item id="3">
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.stream-cinema",return)</onclick>
+			</item>
+		<!--<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<label>$LOCALIZE[31251]</label>
 			<icon>DefaultAddon.png</icon>
@@ -199,6 +192,8 @@
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
+		-->
+		
 		<item id="13">
 			<property name="id">$NUMBER[13]</property>
 			<label>$LOCALIZE[12600]</label>
@@ -215,6 +210,7 @@
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
+		<!--
 		<item id="14">
 			<property name="id">$NUMBER[14]</property>
 			<label>$LOCALIZE[10002]</label>
@@ -231,6 +227,8 @@
 			<property name="hasSubmenu">True</property>
 		</item>
 	</include>
+	-->
+	
 	<include name="menus-videomenu">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
