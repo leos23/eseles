@@ -11,7 +11,7 @@ SK45 8360 5207 0042 0026 9790SK45 8360 5207 0042 0026 9790SK45 8360 5207 0042 00
 		<defaultID />
 	</shortcut>
 		<shortcut>              
-		<defaultID>weather</defaultID>                                                                                                                                                                                                                                                          
+		<defaultID>Weather</defaultID>                                                                                                                                                                                                                                                          
 		<label>12600</label>                                                                                                                                                                                                                                                                    
 		<label2>Custom item</lab</label2>   
 		<icon>DefaultAddon.png</icon>   
