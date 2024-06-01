@@ -18,14 +18,7 @@
 			<property name="hasSubmenu">False</property>
 		</item>
 	
-		
-		<!--<item id="2">
-			<property name="id">$NUMBER[2]</property>
-			<label>Stream Cinema</label>
-			<icon>DefaultShortcut.png</icon>
-			<thumb />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.stream-cinema",return)</onclick>
-			</item>-->
+
 		<--<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<label>$LOCALIZE[31251]</label>
