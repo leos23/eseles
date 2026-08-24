@@ -1,4 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<addons>
+    <!-- 1. The Repository itself -->
+    <addon id="repo.leos23" name="leos23" version="0.1" provider-name="leos23">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="leos23">
+            <dir>
+                <info>https://raw.githubusercontent.com/leos23/eseles/master/repo/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/leos23/eseles/master/repo/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/leos23/eseles/master/repo/zips/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>leos23</summary>
+            <description>private repo</description>
+            <disclaimer />
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+    </addon>
+
+    <!-- 2. Skin / Addon 1 -->
+    <addon id="skin.pellucid" version="3.0.9" name="Pellucid" provider-name="theDeadman">
+        ...
+    </addon>
+</addons><?xml version='1.0' encoding='utf-8'?>
 <addons><addon id="repo.leos23" name="leos23" version="0.1" provider-name="leos23">
     <extension point="xbmc.addon.repository" name="leos23">
         <dir>
